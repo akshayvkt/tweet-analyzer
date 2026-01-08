@@ -1,0 +1,14 @@
+# Data files (large, generated)
+data/
+
+# Reports can be committed if desired
+# reports/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+
+# Environment
+.env

@@ -1,0 +1,16 @@
+{
+  "name": "tweet-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze top-performing tweets from successful Twitter accounts",
+  "type": "module",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "fetch": "node run.js --fetch-only",
+    "report": "node run.js --report-only",
+    "all": "node run.js --all"
+  },
+  "keywords": ["twitter", "analytics", "growth"],
+  "author": "",
+  "license": "MIT"
+}
