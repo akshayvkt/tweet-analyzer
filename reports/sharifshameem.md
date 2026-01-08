@@ -1,6 +1,6 @@
 # @sharifshameem Tweet Analysis
 
-*Generated: 2026-01-07T11:38:50.821Z*
+*Generated: 2026-01-08T08:35:01.950Z*
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Followers | 64.5K |
+| Followers | 64.6K |
 | Following | 4.0K |
 | Total Tweets | 2.8K |
 | Account Created | Jan 21, 2010 |
@@ -18,33 +18,33 @@
 
 ---
 
-## Stats (from 903 fetched tweets)
+## Stats (from 2.4K fetched tweets)
 
 | Metric | Value |
 |--------|-------|
-| Original Tweets | 894 |
+| Original Tweets | 950 |
 | Retweets | 0 |
-| Quote Tweets | 62 |
-| Replies | 9 |
-| Date Range | Dec 23, 2015 → Jan 5, 2026 (3667 days) |
+| Quote Tweets | 117 |
+| Replies | 1.4K |
+| Date Range | Nov 30, 2015 → Jan 5, 2026 (3689 days) |
 
 ### Engagement Averages (Original Tweets Only)
 
 | Metric | Average |
 |--------|---------|
-| Likes | 293 |
-| Retweets | 51 |
-| Replies | 11 |
-| Quotes | 10 |
-| Views | 9.8K |
-| Bookmarks | 41 |
+| Likes | 234 |
+| Retweets | 31 |
+| Replies | 8 |
+| Quotes | 9 |
+| Views | 9.0K |
+| Bookmarks | 39 |
 
 ### Content Patterns
 
 | Pattern | Count | % of Original |
 |---------|-------|---------------|
-| Tweets with Links | 85 | 10% |
-| Tweets with Mentions | 63 | 7% |
+| Tweets with Links | 95 | 10% |
+| Tweets with Mentions | 103 | 11% |
 
 ---
 
@@ -131,7 +131,7 @@
 
 ---
 
-### #8 — 4.1K likes | 235 RTs | 0 views | 519 saves
+### #8 — 4.1K likes | 235 RTs | 0 views | 518 saves
 > I used DALL-E to generate a few 3D assets for Debuild's new landing page design. It's actually... pretty amazing? https://t.co/TrsdPN9z1j
 
 **URL:** https://x.com/sharifshameem/status/1543725493236555776
@@ -167,55 +167,7 @@
 
 ---
 
-### #11 — 2.9K likes | 2.1K RTs | 49.4K views | 5 saves
-> شاہد افریدی ایک جاہل انسان ہے۔۔ 
-> 
-> متفق ہے تو ری پوسٹ کریں۔۔۔ https://t.co/WD4nGTS4XT
-
-**URL:** https://x.com/Sher_now1/status/1802985141502881829
-**Posted:** Jun 18, 2024
-
-
-
----
-
-### #12 — 2.9K likes | 2.1K RTs | 49.4K views | 5 saves
-> شاہد افریدی ایک جاہل انسان ہے۔۔ 
-> 
-> متفق ہے تو ری پوسٹ کریں۔۔۔ https://t.co/WD4nGTS4XT
-
-**URL:** https://x.com/Sher_now1/status/1802985141502881829
-**Posted:** Jun 18, 2024
-
-
-
----
-
-### #13 — 2.9K likes | 2.1K RTs | 49.4K views | 5 saves
-> شاہد افریدی ایک جاہل انسان ہے۔۔ 
-> 
-> متفق ہے تو ری پوسٹ کریں۔۔۔ https://t.co/WD4nGTS4XT
-
-**URL:** https://x.com/Sher_now1/status/1802985141502881829
-**Posted:** Jun 18, 2024
-
-
-
----
-
-### #14 — 2.9K likes | 2.1K RTs | 49.4K views | 5 saves
-> شاہد افریدی ایک جاہل انسان ہے۔۔ 
-> 
-> متفق ہے تو ری پوسٹ کریں۔۔۔ https://t.co/WD4nGTS4XT
-
-**URL:** https://x.com/Sher_now1/status/1802985141502881829
-**Posted:** Jun 18, 2024
-
-
-
----
-
-### #15 — 2.5K likes | 223 RTs | 0 views | 587 saves
+### #11 — 2.5K likes | 223 RTs | 0 views | 587 saves
 > Here are a few samples from the latest Lexica model. Will be live for everyone to play with in a few days.
 > 
 > To beta test it, just reply here with a prompt. https://t.co/bvXKcCS25h
@@ -227,7 +179,7 @@
 
 ---
 
-### #16 — 2.0K likes | 57 RTs | 234.7K views | 81 saves
+### #12 — 2.0K likes | 57 RTs | 234.7K views | 81 saves
 > i’m dying — bro made his angel investors his lock screen so he “never forgets his fiduciary duty towards them” 😭 https://t.co/dmFjInuXhq
 
 **URL:** https://x.com/sharifshameem/status/1705742000807616895
@@ -237,47 +189,7 @@
 
 ---
 
-### #17 — 1.9K likes | 804 RTs | 0 views | 6 saves
-> Whatever jt is, buat apa apa jangan timbulkan negative vibes. Jangan malukan negara Islam. - Sharnaaz Ahmad.
-
-**URL:** https://x.com/nadhirahkmrzmn_/status/1416076780700532743
-**Posted:** Jul 16, 2021
-
-
-
----
-
-### #18 — 1.9K likes | 804 RTs | 0 views | 6 saves
-> Whatever jt is, buat apa apa jangan timbulkan negative vibes. Jangan malukan negara Islam. - Sharnaaz Ahmad.
-
-**URL:** https://x.com/nadhirahkmrzmn_/status/1416076780700532743
-**Posted:** Jul 16, 2021
-
-
-
----
-
-### #19 — 1.9K likes | 804 RTs | 0 views | 6 saves
-> Whatever jt is, buat apa apa jangan timbulkan negative vibes. Jangan malukan negara Islam. - Sharnaaz Ahmad.
-
-**URL:** https://x.com/nadhirahkmrzmn_/status/1416076780700532743
-**Posted:** Jul 16, 2021
-
-
-
----
-
-### #20 — 1.9K likes | 804 RTs | 0 views | 6 saves
-> Whatever jt is, buat apa apa jangan timbulkan negative vibes. Jangan malukan negara Islam. - Sharnaaz Ahmad.
-
-**URL:** https://x.com/nadhirahkmrzmn_/status/1416076780700532743
-**Posted:** Jul 16, 2021
-
-
-
----
-
-### #21 — 1.9K likes | 97 RTs | 214.2K views | 1.4K saves
+### #13 — 1.9K likes | 97 RTs | 214.2K views | 1.4K saves
 > I love how great Claude is at recommending me things to read. So great that I decided to make a lil vibes-based book search engine: https://t.co/wLLi0xZG4t
 
 **URL:** https://x.com/sharifshameem/status/1872880360922726667
@@ -287,7 +199,7 @@
 
 ---
 
-### #22 — 1.9K likes | 269 RTs | 0 views | 793 saves
+### #14 — 1.9K likes | 269 RTs | 0 views | 792 saves
 > Introducing Lexica Aperture - a model that can generate realistic looking photographs. 
 > 
 > Try the beta out for yourself here. (log in then click the Aperture tab)
@@ -301,7 +213,7 @@
 
 ---
 
-### #23 — 1.7K likes | 125 RTs | 0 views | 209 saves
+### #15 — 1.7K likes | 125 RTs | 0 views | 209 saves
 > A few more Studio Ghibli SF images from stable diffusion. I find the Ghibli-style warm colors gorgeous. https://t.co/L3vpyNNsCd
 
 **URL:** https://x.com/sharifshameem/status/1563424509721358339
@@ -311,7 +223,7 @@
 
 ---
 
-### #24 — 1.7K likes | 253 RTs | 0 views | 440 saves
+### #16 — 1.7K likes | 253 RTs | 0 views | 440 saves
 > Just added reverse image search to Lexica. You can upload a photo and it’ll return the most similar Stable Diffusion images and their prompts.
 > 
 > This makes it very to turn a real world concept into a Stable Diffusion prompt.
@@ -325,7 +237,7 @@
 
 ---
 
-### #25 — 1.6K likes | 112 RTs | 468.8K views | 1.6K saves
+### #17 — 1.6K likes | 112 RTs | 468.8K views | 1.6K saves
 > There’s no point in using GPT-3.5 in production — the API has frequent downtime, plus high response latencies lead to subpar end user experiences.
 > 
 > Instead, I’ve found a Mistral 7B finetune deployed with VLLM to be 10x faster(!), way cheaper, and *stupidly* simply to self-host.
@@ -337,7 +249,7 @@
 
 ---
 
-### #26 — 1.5K likes | 51 RTs | 404.7K views | 190 saves
+### #18 — 1.5K likes | 51 RTs | 404.7K views | 190 saves
 > &gt; an H100 server in every home https://t.co/MSv97tGRMH
 
 **URL:** https://x.com/sharifshameem/status/1703825655119688152
@@ -347,7 +259,7 @@
 
 ---
 
-### #27 — 1.5K likes | 83 RTs | 0 views | 238 saves
+### #19 — 1.5K likes | 83 RTs | 0 views | 238 saves
 > it's models all the way down https://t.co/gWEu6TSTta
 
 **URL:** https://x.com/sharifshameem/status/1589891763459993600
@@ -357,7 +269,7 @@
 
 ---
 
-### #28 — 1.5K likes | 92 RTs | 0 views | 198 saves
+### #20 — 1.5K likes | 92 RTs | 0 views | 197 saves
 > I'm excited to announce Lexica's $5M seed round led by Daniel Gross and Nat Friedman via AI Grant
 > 
 > https://t.co/mbnzYNzV46
@@ -369,17 +281,7 @@
 
 ---
 
-### #29 — 1.4K likes | 259 RTs | 0 views | 0 saves
-> " जितना देश को फिरंगियों से खतरा था उससे कहीं ज़्यादा खतरा आज ' नारंगियो ' से है "..
-
-**URL:** https://x.com/ShamaParveen70/status/1285027837439668224
-**Posted:** Jul 19, 2020
-
-
-
----
-
-### #30 — 1.4K likes | 81 RTs | 176.4K views | 404 saves
+### #21 — 1.4K likes | 81 RTs | 176.4K views | 404 saves
 > The Mixtral MoE model genuinely feels like an inflection point — a true GPT-3.5 level model that can run at 30 tokens/sec on an M1.
 > 
 > Imagine all the products now possible when inference is 100% free and your data stays on your device!
@@ -391,7 +293,7 @@
 
 ---
 
-### #31 — 1.3K likes | 168 RTs | 0 views | 295 saves
+### #22 — 1.3K likes | 168 RTs | 0 views | 295 saves
 > I gave GPT-3 access to Chrome with the objective "please buy me Airpods".
 > 
 > Pretty interesting if you ask me 🤔 https://t.co/zwHPLZOlUJ
@@ -403,31 +305,7 @@
 
 ---
 
-### #32 — 1.3K likes | 242 RTs | 11.4K views | 1 saves
-> 'شرم' ایک انتہائی بے معنی اور چھوٹا لفظ ہے جو اس مکروہ گروہ کے لیے استعمال کیا جا سکتا ہے کیونکہ یہ لوگ ہمیشہ اس سے عاری رہے ہیں
-> 
-> رؤف حسن کا مرتضی سولنگی کی ٹویٹ پر ردعمل
-
-**URL:** https://x.com/muqadasawann/status/1743561312095842315
-**Posted:** Jan 6, 2024
-
-
-
----
-
-### #33 — 1.3K likes | 242 RTs | 11.4K views | 1 saves
-> 'شرم' ایک انتہائی بے معنی اور چھوٹا لفظ ہے جو اس مکروہ گروہ کے لیے استعمال کیا جا سکتا ہے کیونکہ یہ لوگ ہمیشہ اس سے عاری رہے ہیں
-> 
-> رؤف حسن کا مرتضی سولنگی کی ٹویٹ پر ردعمل
-
-**URL:** https://x.com/muqadasawann/status/1743561312095842315
-**Posted:** Jan 6, 2024
-
-
-
----
-
-### #34 — 1.3K likes | 103 RTs | 0 views | 235 saves
+### #23 — 1.3K likes | 103 RTs | 0 views | 235 saves
 > A few more photorealistic samples from the new Lexica model. https://t.co/As8FylFAJq
 
 **URL:** https://x.com/sharifshameem/status/1589802089462779904
@@ -437,7 +315,7 @@
 
 ---
 
-### #35 — 1.1K likes | 34 RTs | 140.7K views | 191 saves
+### #24 — 1.2K likes | 34 RTs | 144.7K views | 192 saves
 > I've joined OpenAI!
 > 
 > there are a few rare inflection points throughout history in which the choices we make for how we interact with computers can dictate the next 50+ years of the field (think of the desktop computing metaphor from Xerox PARC in the 70's).
@@ -452,7 +330,7 @@
 
 ---
 
-### #36 — 1.1K likes | 80 RTs | 75.0K views | 310 saves
+### #25 — 1.1K likes | 80 RTs | 75.0K views | 310 saves
 > Nobody gives a damn about your roadmaps or strategy decks — just show them a demo so insanely great it feels like you stole it from five years in the future
 
 **URL:** https://x.com/sharifshameem/status/1856818839285370891
@@ -462,7 +340,7 @@
 
 ---
 
-### #37 — 1.1K likes | 55 RTs | 0 views | 218 saves
+### #26 — 1.1K likes | 55 RTs | 0 views | 218 saves
 > Here are a few architecture samples from the Lexica Aperture model. Real-world coherence has improved, but when you look closely there are still weird artifacts. https://t.co/TGHHek6kHw
 
 **URL:** https://x.com/sharifshameem/status/1590808481220923393
@@ -472,7 +350,7 @@
 
 ---
 
-### #38 — 1.0K likes | 130 RTs | 0 views | 328 saves
+### #27 — 1.0K likes | 130 RTs | 0 views | 328 saves
 > Lexica's search engine is now 100% powered by CLIP.
 > 
 > This means your search query will likely have thousands of matching Stable Diffusion images. You can also search by image similarity too, which is a rabbit hole I've fallen down one too many times.
@@ -486,7 +364,7 @@
 
 ---
 
-### #39 — 994 likes | 127 RTs | 0 views | 297 saves
+### #28 — 994 likes | 127 RTs | 0 views | 297 saves
 > I'm opening up Lexica's search API for anybody to use. 
 > 
 > Now anyone can integrate with a library of tens of millions of Stable Diffusion generated images, all licensed Creative Commons, entirely for free.
@@ -500,7 +378,7 @@
 
 ---
 
-### #40 — 946 likes | 18 RTs | 79.6K views | 109 saves
+### #29 — 946 likes | 18 RTs | 79.6K views | 109 saves
 > one tip for getting over heartbreak is to go outside and just look at the abundance of love in the world: a father pushing his son in a wheelchair, a couple holding their daughter’s hand, teenagers on a first date. 
 > 
 > impossible to feel sad while surrounded by a surplus of love
@@ -512,7 +390,7 @@
 
 ---
 
-### #41 — 900 likes | 17 RTs | 0 views | 345 saves
+### #30 — 900 likes | 17 RTs | 0 views | 345 saves
 > This is most fun I've ever had with a camera. It takes photos that look like they're from a full-frame DSLR while being a tiny point and shoot that fits in a tight jeans pocket. 
 > 
 > Officially a Ricoh GR iii maximalist. https://t.co/OcpOoXJL7R
@@ -524,7 +402,7 @@
 
 ---
 
-### #42 — 897 likes | 48 RTs | 97.6K views | 170 saves
+### #31 — 897 likes | 48 RTs | 97.6K views | 170 saves
 > I still can't believe computers can make us feel things now https://t.co/FQCI5GOSDu
 
 **URL:** https://x.com/sharifshameem/status/1705412135483048040
@@ -534,7 +412,7 @@
 
 ---
 
-### #43 — 855 likes | 38 RTs | 130.6K views | 462 saves
+### #32 — 855 likes | 38 RTs | 130.6K views | 461 saves
 > We made Claude, but multiplayer.
 > 
 > For the first time (ever) -- you can collaborate with a model + others in the same exact chat.
@@ -548,7 +426,7 @@
 
 ---
 
-### #44 — 822 likes | 86 RTs | 0 views | 254 saves
+### #33 — 822 likes | 86 RTs | 0 views | 254 saves
 > What if GPT-3 could generate a full-stack web app from a sentence description?
 > 
 > Like an app with functional components, databases, API requests, instant deployments, and more.
@@ -562,7 +440,7 @@
 
 ---
 
-### #45 — 809 likes | 74 RTs | 293.5K views | 410 saves
+### #34 — 809 likes | 74 RTs | 293.5K views | 410 saves
 > With GPT-4’s image capabilities it might be possible to build an agent that can interact online natively:
 > 
 > 1. capture browser’s screen 
@@ -579,7 +457,7 @@
 
 ---
 
-### #46 — 802 likes | 26 RTs | 100.4K views | 1.3K saves
+### #35 — 803 likes | 26 RTs | 100.4K views | 1.3K saves
 > here's a list of 28 AI products I *really really really* wish existed. 
 > 
 > if you're building anything on this list, please let me know. I will use it and pay you for it. I will help you make it good. https://t.co/jGffwyzsHz
@@ -591,7 +469,7 @@
 
 ---
 
-### #47 — 780 likes | 58 RTs | 96.6K views | 358 saves
+### #36 — 780 likes | 58 RTs | 96.6K views | 358 saves
 > Here’s my personal 2023 LLM product wishlist:
 > 
 > - self-driving web browser
@@ -607,7 +485,7 @@
 
 ---
 
-### #48 — 766 likes | 90 RTs | 0 views | 265 saves
+### #37 — 766 likes | 90 RTs | 0 views | 265 saves
 > Introducing "God Mode" for Lexica.
 > 
 > Quickly view hundreds of Stable Diffusion images in a single search and find the exact style you're looking for in seconds.
@@ -621,7 +499,7 @@
 
 ---
 
-### #49 — 756 likes | 111 RTs | 0 views | 109 saves
+### #38 — 756 likes | 111 RTs | 0 views | 109 saves
 > Here's how to use GPT-3 recursively to solve general problems! https://t.co/1z17RPZYod
 
 **URL:** https://x.com/sharifshameem/status/1379756878062710789
@@ -631,12 +509,152 @@
 
 ---
 
-### #50 — 737 likes | 165 RTs | 0 views | 2 saves
-> "hum shareef Kya hue puri Dunya hi badmash ho gayee"
-> *Quoting @undefined*
+### #39 — 729 likes | 37 RTs | 0 views | 122 saves
+> A few more photos from the Lexica Aperture model – it tends to get the number of fingers correct, but still has issues with the finer details.
+> 
+> Should be live for everyone to play with this week! https://t.co/bbbp9wKlfk
 
-**URL:** https://x.com/CherieDamour_/status/1156979337482162176
-**Posted:** Aug 1, 2019
+**URL:** https://x.com/sharifshameem/status/1592030145757736960
+**Posted:** Nov 13, 2022
+
+
+
+---
+
+### #40 — 710 likes | 126 RTs | 0 views | 41 saves
+> Wow.
+> 
+> I built a React dice component with GPT-3. 
+> 
+> This feels far more fun than writing JSX. https://t.co/kQGd9LvUsV
+
+**URL:** https://x.com/sharifshameem/status/1284807152603820032
+**Posted:** Jul 19, 2020
+
+
+
+---
+
+### #41 — 707 likes | 50 RTs | 38.3K views | 232 saves
+> the only product advice I ever found useful:
+> 
+> Build something real. Put it in people's hands. Watch them use it. Build the next version. Everything else is bullshit.
+
+**URL:** https://x.com/sharifshameem/status/1855150237012443503
+**Posted:** Nov 8, 2024
+
+
+
+---
+
+### #42 — 699 likes | 76 RTs | 0 views | 226 saves
+> Unreal and Unity are the target of a triple pincer movement.
+> 
+> - diffusion models commoditize Riot/Blizzard-level assets to cost nothing.
+> 
+> - bigger Codex models shorten game dev cycles tenfold. 
+> 
+> - GPT-4 makes Pixar-level storytelling &amp; world building feel like child’s play.
+
+**URL:** https://x.com/sharifshameem/status/1591584748404867072
+**Posted:** Nov 12, 2022
+
+
+
+---
+
+### #43 — 699 likes | 50 RTs | 0 views | 150 saves
+> A few more photorealistic examples from the new Lexica Aperture model. https://t.co/t9qex9HeCw
+
+**URL:** https://x.com/sharifshameem/status/1590450331640819714
+**Posted:** Nov 9, 2022
+
+
+
+---
+
+### #44 — 695 likes | 122 RTs | 0 views | 189 saves
+> Here I am generating ~20 versions of a web app by describing what I want in just 1 sentence to @DebuildHQ.
+> 
+> Debuild uses GPT-3 + Codex to:
+> - Generate a product spec
+> - Generate the data model
+> - Write the SQL queries
+> - Generate the React UI
+> - Deploy it in 1 click https://t.co/gpFQq1pHH6
+
+**URL:** https://x.com/sharifshameem/status/1425185575645024256
+**Posted:** Aug 10, 2021
+
+**Mentions:** @DebuildHQ
+
+---
+
+### #45 — 672 likes | 22 RTs | 82.8K views | 243 saves
+> Sometimes the people who need invitations most are the ones who always decline them: https://t.co/iwgrDEccja
+
+**URL:** https://x.com/sharifshameem/status/1970238923621404690
+**Posted:** Sep 22, 2025
+
+
+
+---
+
+### #46 — 617 likes | 25 RTs | 270.2K views | 242 saves
+> A simple single-purpose AI chat device would be so fun to use. Just hold down the single button, speak, and listen to the response in real-time. 
+> 
+> All models would run locally on-device so it wouldn’t be reliant on hosted API providers or a cellular connection — it should just work.
+> 
+> Essentially it would be a dream device for the voraciously curious 6 year old.
+
+**URL:** https://x.com/sharifshameem/status/1723885767100186632
+**Posted:** Nov 12, 2023
+
+
+
+---
+
+### #47 — 584 likes | 33 RTs | 0 views | 44 saves
+> Here are a few more DALL-E generated design assets. It's pretty good at "rendering" 3D objects. https://t.co/502frs1JAf
+
+**URL:** https://x.com/sharifshameem/status/1544104669831524352
+**Posted:** Jul 4, 2022
+
+
+
+---
+
+### #48 — 562 likes | 0 RTs | 125.2K views | 45 saves
+> moved in to our new hq today w @FarzaTV https://t.co/LfDraBSYn0
+
+**URL:** https://x.com/sharifshameem/status/1942310150846714339
+**Posted:** Jul 7, 2025
+
+**Mentions:** @FarzaTV
+
+---
+
+### #49 — 561 likes | 62 RTs | 157.3K views | 201 saves
+> Introducing Lexica Aperture v3!
+> 
+> Our latest model is based on a new architecture and trained from the ground up — it should be much, much better at following prompts and rendering fine details.
+> 
+> You can play with it at https://t.co/mIgpzV7TwS https://t.co/qlHZKNL7Lu
+
+**URL:** https://x.com/sharifshameem/status/1646673490957983745
+**Posted:** Apr 13, 2023
+**Links:** https://lexica.art/aperture
+
+
+---
+
+### #50 — 558 likes | 27 RTs | 137.6K views | 101 saves
+> Designed a few Gameboys with Aperture v2.
+> 
+> Just shipped it — currently live on Lexica if you want to play around with it! https://t.co/3F5J745uqi
+
+**URL:** https://x.com/sharifshameem/status/1609273567832596482
+**Posted:** Dec 31, 2022
 
 
 
@@ -705,7 +723,7 @@
 
 ---
 
-### #6 — 802 likes | 26 RTs | 100.4K views | 1.3K saves
+### #6 — 803 likes | 26 RTs | 100.4K views | 1.3K saves
 > here's a list of 28 AI products I *really really really* wish existed. 
 > 
 > if you're building anything on this list, please let me know. I will use it and pay you for it. I will help you make it good. https://t.co/jGffwyzsHz
@@ -754,7 +772,7 @@
 
 ---
 
-### #10 — 1.9K likes | 269 RTs | 0 views | 793 saves
+### #10 — 1.9K likes | 269 RTs | 0 views | 792 saves
 > Introducing Lexica Aperture - a model that can generate realistic looking photographs. 
 > 
 > Try the beta out for yourself here. (log in then click the Aperture tab)
@@ -804,7 +822,7 @@
 
 ---
 
-### #14 — 4.1K likes | 235 RTs | 0 views | 519 saves
+### #14 — 4.1K likes | 235 RTs | 0 views | 518 saves
 > I used DALL-E to generate a few 3D assets for Debuild's new landing page design. It's actually... pretty amazing? https://t.co/TrsdPN9z1j
 
 **URL:** https://x.com/sharifshameem/status/1543725493236555776
@@ -814,7 +832,7 @@
 
 ---
 
-### #15 — 855 likes | 38 RTs | 130.6K views | 462 saves
+### #15 — 855 likes | 38 RTs | 130.6K views | 461 saves
 > We made Claude, but multiplayer.
 > 
 > For the first time (ever) -- you can collaborate with a model + others in the same exact chat.
@@ -1038,7 +1056,7 @@
 
 ---
 
-### #12 — 1.1K likes | 34 RTs | 140.7K views | 191 saves
+### #12 — 1.2K likes | 34 RTs | 144.7K views | 192 saves
 > I've joined OpenAI!
 > 
 > there are a few rare inflection points throughout history in which the choices we make for how we interact with computers can dictate the next 50+ years of the field (think of the desktop computing metaphor from Xerox PARC in the 70's).
@@ -1077,7 +1095,7 @@
 
 ---
 
-### #15 — 855 likes | 38 RTs | 130.6K views | 462 saves
+### #15 — 855 likes | 38 RTs | 130.6K views | 461 saves
 > We made Claude, but multiplayer.
 > 
 > For the first time (ever) -- you can collaborate with a model + others in the same exact chat.

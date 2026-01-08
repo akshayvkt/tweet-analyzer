@@ -1,6 +1,6 @@
 # @vasuman Tweet Analysis
 
-*Generated: 2026-01-07T11:48:46.149Z*
+*Generated: 2026-01-08T04:08:06.674Z*
 
 ---
 
@@ -18,15 +18,15 @@
 
 ---
 
-## Stats (from 284 fetched tweets)
+## Stats (from 1.2K fetched tweets)
 
 | Metric | Value |
 |--------|-------|
-| Original Tweets | 283 |
-| Retweets | 1 |
-| Quote Tweets | 77 |
-| Replies | 0 |
-| Date Range | Oct 29, 2025 → Jan 6, 2026 (70 days) |
+| Original Tweets | 284 |
+| Retweets | 0 |
+| Quote Tweets | 94 |
+| Replies | 941 |
+| Date Range | Oct 29, 2025 → Jan 7, 2026 (71 days) |
 
 ### Engagement Averages (Original Tweets Only)
 
@@ -37,7 +37,7 @@
 | Replies | 30 |
 | Quotes | 5 |
 | Views | 84.7K |
-| Bookmarks | 148 |
+| Bookmarks | 149 |
 
 ### Content Patterns
 
@@ -50,7 +50,7 @@
 
 ## Top 50 Tweets by Likes
 
-### #1 — 49.4K likes | 334 RTs | 1.6M views | 542 saves
+### #1 — 49.4K likes | 333 RTs | 1.6M views | 541 saves
 > I wonder which one I am going to pick https://t.co/UdljFsRs0Y
 
 **URL:** https://x.com/vasuman/status/2003543257213731317
@@ -88,7 +88,7 @@
 
 ---
 
-### #4 — 23.8K likes | 575 RTs | 1.7M views | 727 saves
+### #4 — 23.8K likes | 576 RTs | 1.7M views | 727 saves
 > They’re going to murder the intern that posted this
 > *Quoting @WhatsApp*
 
@@ -99,7 +99,7 @@
 
 ---
 
-### #5 — 20.4K likes | 571 RTs | 3.4M views | 2.8K saves
+### #5 — 20.4K likes | 570 RTs | 3.4M views | 2.8K saves
 > > grind 12 years in Bay Area public high schools
 > > start a non-profit just to get into college
 > > get into elite CS program
@@ -119,7 +119,7 @@
 
 ---
 
-### #6 — 18.6K likes | 677 RTs | 335.0K views | 304 saves
+### #6 — 18.6K likes | 678 RTs | 335.0K views | 304 saves
 > Duolingo does everything except actually teach you the language
 > *Quoting @NathieVR*
 
@@ -140,7 +140,7 @@
 
 ---
 
-### #8 — 9.4K likes | 243 RTs | 1.7M views | 461 saves
+### #8 — 9.4K likes | 243 RTs | 1.7M views | 460 saves
 > Imagine joining Databricks in 2017 at their Series D thinking oh boy the IPO is just around the corner and then 9 years later you raise a Series L
 > *Quoting @exec_sum*
 
@@ -192,7 +192,7 @@
 
 ---
 
-### #13 — 4.9K likes | 222 RTs | 337.7K views | 1.4K saves
+### #13 — 4.9K likes | 222 RTs | 337.8K views | 1.4K saves
 > POV: you're a 21 year old with 0 internship experience graduating into the most competitive software engineering job market of all time and BlackBox just dropped the SaaSinator-9000 https://t.co/3rSRBjnebp
 > *Quoting @blackboxai*
 
@@ -215,7 +215,7 @@
 
 ---
 
-### #15 — 3.8K likes | 107 RTs | 227.9K views | 390 saves
+### #15 — 3.8K likes | 107 RTs | 228.0K views | 391 saves
 > Man who uses GPT-4o in Windsurf: AI sucks at coding
 > 
 > Man who uses Opus 4.5 in Claude Code: we already have AGI
@@ -258,7 +258,7 @@
 
 ---
 
-### #19 — 3.1K likes | 87 RTs | 408.7K views | 1.2K saves
+### #19 — 3.1K likes | 87 RTs | 408.8K views | 1.2K saves
 > cool https://t.co/gBY1fLJt8y
 
 **URL:** https://x.com/vasuman/status/1999551563484762449
@@ -289,7 +289,7 @@
 
 ---
 
-### #22 — 2.3K likes | 149 RTs | 249.4K views | 4.6K saves
+### #22 — 2.3K likes | 149 RTs | 249.6K views | 4.6K saves
 > Spent the last 2 hours going through this and one thing is clear:
 > 
 > If you spend 7 days mastering this repository, you can land a 6 figure job in 2026. 
@@ -345,7 +345,7 @@
 
 ---
 
-### #25 — 1.8K likes | 43 RTs | 50.6K views | 64 saves
+### #25 — 1.8K likes | 43 RTs | 50.7K views | 64 saves
 > https://t.co/YDZ36zwWKk
 
 **URL:** https://x.com/vasuman/status/2004812238260240731
@@ -411,7 +411,7 @@
 
 ---
 
-### #30 — 1.5K likes | 27 RTs | 61.0K views | 113 saves
+### #30 — 1.5K likes | 27 RTs | 61.0K views | 112 saves
 > Watching 19 year old me grind LeetCode mediums for Amazon instead of paying 5,000 offshore workers $4/hr to tag images and invent Scale AI https://t.co/9ol83tyhCJ
 
 **URL:** https://x.com/vasuman/status/1992818160517710332
@@ -431,7 +431,7 @@
 
 ---
 
-### #32 — 1.3K likes | 53 RTs | 395.2K views | 3.7K saves
+### #32 — 1.3K likes | 53 RTs | 395.8K views | 3.7K saves
 > People keep asking me for advice on how to grow on X. Just read this. Couldn't have said it better myself.
 > *Quoting @EXM7777*
 
@@ -462,7 +462,7 @@
 
 ---
 
-### #35 — 1.1K likes | 24 RTs | 161.0K views | 120 saves
+### #35 — 1.1K likes | 24 RTs | 161.0K views | 119 saves
 > They lobotomized Gemini 3.0. We are approaching GPT 3.5-Turbo levels of intelligence. There's a bubble, short everything,  TPUs don't work. It's fucking over. https://t.co/udOn43TnxL
 
 **URL:** https://x.com/vasuman/status/1998934352189862290
@@ -507,7 +507,7 @@
 
 ---
 
-### #38 — 1.1K likes | 88 RTs | 129.6K views | 548 saves
+### #38 — 1.0K likes | 88 RTs | 129.6K views | 548 saves
 > The problem with vibe-coding is that it opened the floodgates to a certain kind of person (myself included) who now pushes the idea that you can vibe-code an app in a few days and start printing life changing amounts of money. 
 > 
 > It’s turning into the same fake and lame energy of the info-guru world where the lifestyle becomes the product by setting unrealistic expectations to lazy people who want to get rich quick. 
@@ -548,7 +548,7 @@
 
 ---
 
-### #40 — 913 likes | 25 RTs | 296.7K views | 451 saves
+### #40 — 915 likes | 25 RTs | 296.7K views | 451 saves
 > I built this months ago then realized the winner was GPT every single time. 
 > 
 > Even after plugging in Gemini 3.0, the winner was GPT 5.1, every single time. 
@@ -565,7 +565,7 @@
 
 ---
 
-### #41 — 879 likes | 30 RTs | 98.5K views | 65 saves
+### #41 — 880 likes | 30 RTs | 98.5K views | 65 saves
 > Stay away from GPT 5.2
 
 **URL:** https://x.com/vasuman/status/1999549639159120024
@@ -603,7 +603,7 @@
 
 ---
 
-### #43 — 861 likes | 29 RTs | 303.1K views | 423 saves
+### #43 — 860 likes | 29 RTs | 303.1K views | 423 saves
 > A month ago I said I was bearish on Anthropic. People questioned why.
 > 
 > I hope this is apparent now.
@@ -626,7 +626,18 @@
 
 ---
 
-### #44 — 770 likes | 9 RTs | 91.6K views | 47 saves
+### #44 — 821 likes | 37 RTs | 180.5K views | 1.3K saves
+> Machina is absolutely cooking with the articles lately. Straight up Pulitzer Prize winning stuff.
+> *Quoting @EXM7777*
+
+**URL:** https://x.com/vasuman/status/2008572315559490034
+**Posted:** Jan 6, 2026
+
+
+
+---
+
+### #45 — 770 likes | 9 RTs | 91.6K views | 47 saves
 > Just paid for Cursor for the last time.
 > 
 > I'm still going to be using it. I just don't intend on paying anymore. I'm going to commit fraud.
@@ -638,7 +649,7 @@
 
 ---
 
-### #45 — 759 likes | 16 RTs | 22.1K views | 26 saves
+### #46 — 759 likes | 16 RTs | 22.1K views | 26 saves
 > Forget the benchmarks I'm testing this thing myself https://t.co/Wcw8jfPYSM
 
 **URL:** https://x.com/vasuman/status/1990846431146471927
@@ -648,7 +659,7 @@
 
 ---
 
-### #46 — 709 likes | 24 RTs | 215.0K views | 771 saves
+### #47 — 711 likes | 25 RTs | 215.7K views | 771 saves
 > We started Varick Agents 4 months ago. We're at $3M ARR and are saving our clients over $20M annually through AI Agents.
 > 
 > In 2026, we're taking that to $30M ARR and $200M in client savings.
@@ -667,7 +678,7 @@
 
 ---
 
-### #47 — 691 likes | 11 RTs | 371.4K views | 579 saves
+### #48 — 691 likes | 11 RTs | 371.5K views | 579 saves
 > Never mind. 
 > 
 > Just spent a week using Manus AI and I can confidently say we are never coming close to anything this good. Mind blowing stuff. Kudos to the team and I'll be a customer for a long time. 
@@ -682,7 +693,7 @@
 
 ---
 
-### #48 — 641 likes | 48 RTs | 283.2K views | 1.5K saves
+### #49 — 642 likes | 48 RTs | 283.5K views | 1.5K saves
 > If you still don’t get tool calls, start here:  
 > 
 > AWS open-sourced a full AgentCore samples repo. It’s one of the more clear and value-driven agents on AWS walkthroughs I’ve seen (linked below, not sponsored). 
@@ -703,7 +714,7 @@
 
 ---
 
-### #49 — 632 likes | 37 RTs | 44.5K views | 31 saves
+### #50 — 632 likes | 37 RTs | 44.5K views | 31 saves
 > Never seen an expert in anything be staunchly anti-AI
 > 
 > It’s always the amateurs
@@ -715,40 +726,12 @@
 
 ---
 
-### #50 — 630 likes | 39 RTs | 45.0K views | 619 saves
-> Just open up 3 cursor prompt windows, one with Gemini 3.0 Pro, one with Claude Opus 4.5, one with Codex 5.1 High Pro
-> 
-> Ask each one to audit your codebase and store it in a markdown called [MODEL_NAME]-[TODAY'S_DATE].md 
-> 
-> Then feed each one the other two's docs
-> 
-> Then feed all of it into Opus 4.5 for a step-by-step refactor
-> 
-> And you're done
-> 
-> 'Why not use just Codex 5.1 High Pro'
-> 
-> Even a king has trusted advisors.
-> 
-> 'Vibe-coding doesn't work, it always breaks eventually'
-> 
-> Not anymore bum. That was 6 months ago. That was when we were using Sonnet 3.7 and Gemini 2.5 Pro. 
-> 
-> Have you SEEN Codex 5.1? Have you SEEN Opus 4.5? Have you WITNESSED their capabilities? When's the last time you used 400 million tokens in 24 hours?
-
-**URL:** https://x.com/vasuman/status/1996414648594161923
-**Posted:** Dec 3, 2025
-
-
-
----
-
 
 ---
 
 ## Top 20 Tweets by Bookmarks (High-Value Content)
 
-### #1 — 2.3K likes | 149 RTs | 249.4K views | 4.6K saves
+### #1 — 2.3K likes | 149 RTs | 249.6K views | 4.6K saves
 > Spent the last 2 hours going through this and one thing is clear:
 > 
 > If you spend 7 days mastering this repository, you can land a 6 figure job in 2026. 
@@ -775,7 +758,7 @@
 
 ---
 
-### #2 — 1.3K likes | 53 RTs | 395.2K views | 3.7K saves
+### #2 — 1.3K likes | 53 RTs | 395.8K views | 3.7K saves
 > People keep asking me for advice on how to grow on X. Just read this. Couldn't have said it better myself.
 > *Quoting @EXM7777*
 
@@ -786,7 +769,7 @@
 
 ---
 
-### #3 — 20.4K likes | 571 RTs | 3.4M views | 2.8K saves
+### #3 — 20.4K likes | 570 RTs | 3.4M views | 2.8K saves
 > > grind 12 years in Bay Area public high schools
 > > start a non-profit just to get into college
 > > get into elite CS program
@@ -840,7 +823,7 @@
 
 ---
 
-### #6 — 641 likes | 48 RTs | 283.2K views | 1.5K saves
+### #6 — 642 likes | 48 RTs | 283.5K views | 1.5K saves
 > If you still don’t get tool calls, start here:  
 > 
 > AWS open-sourced a full AgentCore samples repo. It’s one of the more clear and value-driven agents on AWS walkthroughs I’ve seen (linked below, not sponsored). 
@@ -889,7 +872,7 @@
 
 ---
 
-### #8 — 4.9K likes | 222 RTs | 337.7K views | 1.4K saves
+### #8 — 4.9K likes | 222 RTs | 337.8K views | 1.4K saves
 > POV: you're a 21 year old with 0 internship experience graduating into the most competitive software engineering job market of all time and BlackBox just dropped the SaaSinator-9000 https://t.co/3rSRBjnebp
 > *Quoting @blackboxai*
 
@@ -900,17 +883,7 @@
 
 ---
 
-### #9 — 3.1K likes | 87 RTs | 408.7K views | 1.2K saves
-> cool https://t.co/gBY1fLJt8y
-
-**URL:** https://x.com/vasuman/status/1999551563484762449
-**Posted:** Dec 12, 2025
-
-
-
----
-
-### #10 — 540 likes | 21 RTs | 122.9K views | 869 saves
+### #9 — 821 likes | 37 RTs | 180.5K views | 1.3K saves
 > Machina is absolutely cooking with the articles lately. Straight up Pulitzer Prize winning stuff.
 > *Quoting @EXM7777*
 
@@ -921,7 +894,17 @@
 
 ---
 
-### #11 — 709 likes | 24 RTs | 215.0K views | 771 saves
+### #10 — 3.1K likes | 87 RTs | 408.8K views | 1.2K saves
+> cool https://t.co/gBY1fLJt8y
+
+**URL:** https://x.com/vasuman/status/1999551563484762449
+**Posted:** Dec 12, 2025
+
+
+
+---
+
+### #11 — 711 likes | 25 RTs | 215.7K views | 771 saves
 > We started Varick Agents 4 months ago. We're at $3M ARR and are saving our clients over $20M annually through AI Agents.
 > 
 > In 2026, we're taking that to $30M ARR and $200M in client savings.
@@ -950,7 +933,7 @@
 
 ---
 
-### #13 — 23.8K likes | 575 RTs | 1.7M views | 727 saves
+### #13 — 23.8K likes | 576 RTs | 1.7M views | 727 saves
 > They’re going to murder the intern that posted this
 > *Quoting @WhatsApp*
 
@@ -972,7 +955,7 @@
 
 ---
 
-### #15 — 584 likes | 42 RTs | 53.6K views | 641 saves
+### #15 — 584 likes | 42 RTs | 53.6K views | 638 saves
 > Here's the best LLM for your use case - as of December 2025 (bookmark this):
 > 
 > Writing: Gemini 3.0 Pro, Claude Opus 4.5 close second
@@ -994,7 +977,7 @@
 
 ---
 
-### #16 — 630 likes | 39 RTs | 45.0K views | 619 saves
+### #16 — 631 likes | 39 RTs | 45.0K views | 618 saves
 > Just open up 3 cursor prompt windows, one with Gemini 3.0 Pro, one with Claude Opus 4.5, one with Codex 5.1 High Pro
 > 
 > Ask each one to audit your codebase and store it in a markdown called [MODEL_NAME]-[TODAY'S_DATE].md 
@@ -1022,7 +1005,7 @@
 
 ---
 
-### #17 — 691 likes | 11 RTs | 371.4K views | 579 saves
+### #17 — 691 likes | 11 RTs | 371.5K views | 579 saves
 > Never mind. 
 > 
 > Just spent a week using Manus AI and I can confidently say we are never coming close to anything this good. Mind blowing stuff. Kudos to the team and I'll be a customer for a long time. 
@@ -1037,7 +1020,7 @@
 
 ---
 
-### #18 — 447 likes | 49 RTs | 25.8K views | 555 saves
+### #18 — 448 likes | 49 RTs | 25.8K views | 554 saves
 > How to win in 2026:
 > 
 > It’s December 1st. If you wait until the new year to start on your resolutions, your odds of sticking to them are near-zero. The only way you have a shot is if you start now, and let January be a checkpoint instead of a fake reason to start.
@@ -1095,7 +1078,7 @@
 
 ---
 
-### #19 — 1.1K likes | 88 RTs | 129.6K views | 548 saves
+### #19 — 1.0K likes | 88 RTs | 129.6K views | 548 saves
 > The problem with vibe-coding is that it opened the floodgates to a certain kind of person (myself included) who now pushes the idea that you can vibe-code an app in a few days and start printing life changing amounts of money. 
 > 
 > It’s turning into the same fake and lame energy of the info-guru world where the lifestyle becomes the product by setting unrealistic expectations to lazy people who want to get rich quick. 
@@ -1119,7 +1102,7 @@
 
 ---
 
-### #20 — 49.4K likes | 334 RTs | 1.6M views | 542 saves
+### #20 — 49.4K likes | 333 RTs | 1.6M views | 541 saves
 > I wonder which one I am going to pick https://t.co/UdljFsRs0Y
 
 **URL:** https://x.com/vasuman/status/2003543257213731317
@@ -1134,7 +1117,7 @@
 
 ## Top 20 Tweets by Views (Viral Reach)
 
-### #1 — 20.4K likes | 571 RTs | 3.4M views | 2.8K saves
+### #1 — 20.4K likes | 570 RTs | 3.4M views | 2.8K saves
 > > grind 12 years in Bay Area public high schools
 > > start a non-profit just to get into college
 > > get into elite CS program
@@ -1154,7 +1137,7 @@
 
 ---
 
-### #2 — 23.8K likes | 575 RTs | 1.7M views | 727 saves
+### #2 — 23.8K likes | 576 RTs | 1.7M views | 727 saves
 > They’re going to murder the intern that posted this
 > *Quoting @WhatsApp*
 
@@ -1165,7 +1148,7 @@
 
 ---
 
-### #3 — 9.4K likes | 243 RTs | 1.7M views | 461 saves
+### #3 — 9.4K likes | 243 RTs | 1.7M views | 460 saves
 > Imagine joining Databricks in 2017 at their Series D thinking oh boy the IPO is just around the corner and then 9 years later you raise a Series L
 > *Quoting @exec_sum*
 
@@ -1176,7 +1159,7 @@
 
 ---
 
-### #4 — 49.4K likes | 334 RTs | 1.6M views | 542 saves
+### #4 — 49.4K likes | 333 RTs | 1.6M views | 541 saves
 > I wonder which one I am going to pick https://t.co/UdljFsRs0Y
 
 **URL:** https://x.com/vasuman/status/2003543257213731317
@@ -1252,7 +1235,7 @@
 
 ---
 
-### #10 — 3.1K likes | 87 RTs | 408.7K views | 1.2K saves
+### #10 — 3.1K likes | 87 RTs | 408.8K views | 1.2K saves
 > cool https://t.co/gBY1fLJt8y
 
 **URL:** https://x.com/vasuman/status/1999551563484762449
@@ -1262,7 +1245,7 @@
 
 ---
 
-### #11 — 1.3K likes | 53 RTs | 395.2K views | 3.7K saves
+### #11 — 1.3K likes | 53 RTs | 395.8K views | 3.7K saves
 > People keep asking me for advice on how to grow on X. Just read this. Couldn't have said it better myself.
 > *Quoting @EXM7777*
 
@@ -1273,7 +1256,7 @@
 
 ---
 
-### #12 — 691 likes | 11 RTs | 371.4K views | 579 saves
+### #12 — 691 likes | 11 RTs | 371.5K views | 579 saves
 > Never mind. 
 > 
 > Just spent a week using Manus AI and I can confidently say we are never coming close to anything this good. Mind blowing stuff. Kudos to the team and I'll be a customer for a long time. 
@@ -1311,7 +1294,7 @@
 
 ---
 
-### #15 — 4.9K likes | 222 RTs | 337.7K views | 1.4K saves
+### #15 — 4.9K likes | 222 RTs | 337.8K views | 1.4K saves
 > POV: you're a 21 year old with 0 internship experience graduating into the most competitive software engineering job market of all time and BlackBox just dropped the SaaSinator-9000 https://t.co/3rSRBjnebp
 > *Quoting @blackboxai*
 
@@ -1322,7 +1305,7 @@
 
 ---
 
-### #16 — 18.6K likes | 677 RTs | 335.0K views | 304 saves
+### #16 — 18.6K likes | 678 RTs | 335.0K views | 304 saves
 > Duolingo does everything except actually teach you the language
 > *Quoting @NathieVR*
 
@@ -1346,7 +1329,7 @@
 
 ---
 
-### #18 — 861 likes | 29 RTs | 303.1K views | 423 saves
+### #18 — 860 likes | 29 RTs | 303.1K views | 423 saves
 > A month ago I said I was bearish on Anthropic. People questioned why.
 > 
 > I hope this is apparent now.
@@ -1369,7 +1352,7 @@
 
 ---
 
-### #19 — 913 likes | 25 RTs | 296.7K views | 451 saves
+### #19 — 915 likes | 25 RTs | 296.7K views | 451 saves
 > I built this months ago then realized the winner was GPT every single time. 
 > 
 > Even after plugging in Gemini 3.0, the winner was GPT 5.1, every single time. 
@@ -1386,7 +1369,7 @@
 
 ---
 
-### #20 — 641 likes | 48 RTs | 283.2K views | 1.5K saves
+### #20 — 642 likes | 48 RTs | 283.5K views | 1.5K saves
 > If you still don’t get tool calls, start here:  
 > 
 > AWS open-sourced a full AgentCore samples repo. It’s one of the more clear and value-driven agents on AWS walkthroughs I’ve seen (linked below, not sponsored). 

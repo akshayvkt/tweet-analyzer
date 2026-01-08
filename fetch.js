@@ -181,7 +181,23 @@ export async function fetchAllTweets(username, outputPath, onProgress = null) {
 
       // Extract tweets - advanced_search returns tweets at top level
       const pageTweets = response_data.tweets || [];
-      const trimmedTweets = pageTweets.map(trimTweet);
+
+      // IMPORTANT: Filter to only include tweets actually from this user
+      // The advanced_search API does fuzzy matching, so it may return tweets from
+      // users with similar names (e.g., "skirano" matches "Skriniar" footballer tweets)
+      const userTweets = pageTweets.filter(tweet => {
+        // Check if tweet URL belongs to this user (case-insensitive)
+        const urlMatch = tweet.url?.match(/x\.com\/([^\/]+)\/status/i);
+        if (!urlMatch) return false;
+        return urlMatch[1].toLowerCase() === username.toLowerCase();
+      });
+
+      const filtered = pageTweets.length - userTweets.length;
+      if (filtered > 0) {
+        console.log(`[Tweets] Filtered out ${filtered} tweets not from @${username}`);
+      }
+
+      const trimmedTweets = userTweets.map(trimTweet);
       allTweets.push(...trimmedTweets);
 
       // Get pagination info - at top level
