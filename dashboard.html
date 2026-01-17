@@ -956,6 +956,11 @@
     function updateCounts() {
       document.getElementById('filtered-count').textContent = filteredTweets.length;
       document.getElementById('showing-count').textContent = filteredTweets.length;
+
+      // Update header stats dynamically based on filtered tweets
+      document.getElementById('total-tweets').textContent = formatNumber(filteredTweets.length);
+      const filteredLikes = filteredTweets.reduce((sum, t) => sum + t.likes, 0);
+      document.getElementById('total-likes').textContent = formatNumber(filteredLikes);
     }
 
     // Update header stats
